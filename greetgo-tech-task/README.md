@@ -18,7 +18,7 @@ This project is an example of a Spring Boot application using a database. It dem
 To get started with this project, follow these steps:
 
 1. Clone this repository onto your local machine.
-   git clone https://github.com/YerzhanAs/Electronic_school.git
+   git clone https://github.com/YerzhanAs/Electronic_school.git 
 2. Build the application
    cd Electronic_school
    mvn clean package
