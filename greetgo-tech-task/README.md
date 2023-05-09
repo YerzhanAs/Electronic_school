@@ -51,6 +51,8 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 ### Data 2:
 ###  email: admin@gmail.com password: 12345qwe
 
+If you can't log in through these settings, try registering
+
 ## 1.4  API Endpoints
 
 ### 1.4.1 Registration User
