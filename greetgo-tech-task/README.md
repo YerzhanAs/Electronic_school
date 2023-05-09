@@ -223,4 +223,4 @@ HTTP/1.1 204 No Content
 I wrote two classes for the test. The first test is StudentServiceImplTest. First test test all methods of the StudentServiceImpl class. This class contains all the logic of the service. The second test is UserServiceImplTest. Here it is the same as in the first test.
 
 ## 1.6 Conclusion
-This project has demonstrated how to create a Spring Boot application with a database. It covered connecting to a database, performing CRUD operations, and handling errors. With
+This project has demonstrated how to create a Spring Boot application with a database and frontend. It covered connecting to a database, performing CRUD operations, and handling errors. 
